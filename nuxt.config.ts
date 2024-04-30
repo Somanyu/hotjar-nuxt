@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["nuxt-module-hotjar"],
   hotjar: {
-    hotjarId: 4954366,
+    hotjarId: 4964990,
     scriptVersion: 6,
 
     // optionally you can turn on debug mode for development
